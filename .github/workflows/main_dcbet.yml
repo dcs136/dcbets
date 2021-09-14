@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'dcbet'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_992f246819c44d97a1c7b863d0ec1c30 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_9ad9683aebac4bbfb666f35525c9bed7 }}
